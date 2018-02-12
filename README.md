@@ -1,5 +1,4 @@
 # git-tutorial
 
-## SMALLER HEADLINE!
-
+## SMALLER HEADLINE!!
 
